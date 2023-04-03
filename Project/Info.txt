@@ -1,0 +1,4 @@
+Data Science Project
+data: 02/02/2022
+authors: Marco Chiloiro, Fabio Vitale
+execution: start 'Preprocessing.ipynb' and after 'EDA and Analysis.ipynb'. Don't change the location of files and folders.
